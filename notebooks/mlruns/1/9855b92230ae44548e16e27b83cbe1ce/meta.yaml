@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oluwa/Documents/GitHub/adv-python-datasci/notebooks/mlruns/1/9855b92230ae44548e16e27b83cbe1ce/artifacts
+end_time: 1642690770226
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9855b92230ae44548e16e27b83cbe1ce
+run_uuid: 9855b92230ae44548e16e27b83cbe1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642690769233
+status: 3
+tags: []
+user_id: oluwa

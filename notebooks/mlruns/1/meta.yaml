@@ -1,0 +1,4 @@
+artifact_location: file:///Users/oluwa/Documents/GitHub/adv-python-datasci/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Predicting Income
